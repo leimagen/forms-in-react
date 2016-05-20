@@ -1,5 +1,5 @@
 {
-  "name": "react-skeleton",
+  "name": "forms-in-react",
   "version": "1.0.0",
   "description": "React Skeleton",
   "main": "index.js",
@@ -9,17 +9,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/leimagen/react-skeleton.git"
+    "url": "git+https://github.com/leimagen/forms-in-react.git"
   },
   "author": "Luis Escobar",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/leimagen/react-skeleton/issues"
+    "url": "https://github.com/leimagen/forms-in-react/issues"
   },
-  "homepage": "https://github.com/leimagen/react-skeleton#readme",
+  "homepage": "https://github.com/leimagen/forms-in-react#readme",
   "dependencies": {
     "babel-preset-react": "^6.5.0",
     "babelify": "^7.3.0",
+    "email-validator": "^1.0.4",
     "react": "^15.0.2",
     "react-dom": "^15.0.2",
     "react-router": "^2.4.0",
